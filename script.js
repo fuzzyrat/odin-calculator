@@ -32,7 +32,7 @@ function operate(a, b, c) {
     }
 }
 
-console.log(operate(10, "+", 10));
-console.log(operate(10, "-", 10));
-console.log(operate(10, "*", 10));
-console.log(operate(10, "/", 10));
+// console.log(operate(10, "+", 10));
+// console.log(operate(10, "-", 10));
+// console.log(operate(10, "*", 10));
+// console.log(operate(10, "/", 10));
